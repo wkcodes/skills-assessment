@@ -6,7 +6,7 @@ Fork the repo and create the HTML, CSS, and JavaScript for the widget as describ
 
 Please code the page according to industry best practices and organize the assets as you would if delivering it to a client to integrate (not necessarily to deploy).
 
-Extra credit: write your JavaScript using OO.
+Bonuses: Don't use any images.  Keep it simple, don't overuse JavaScript.  Prioritize modern browsers - graceful degredation is our friend.
 
 ### Resources
 
