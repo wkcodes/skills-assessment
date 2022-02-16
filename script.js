@@ -1,4 +1,5 @@
 console.log('test');
+document.getElementById('Contacts').innerHTML = 'changed';
 const contacts = [
   {
     name: 'Christian',
